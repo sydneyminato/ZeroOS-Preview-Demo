@@ -1,5 +1,9 @@
 [README.md](https://github.com/user-attachments/files/32428350/README.md)
 # ZeroOS Demo — VSS Desktop & IIRE Native Gateway
+<img width="639" height="509" alt="スクリーンショット 2026-09-20 15 56 32" src="https://github.com/user-attachments/assets/59887824-c700-4708-a5a9-1ba1d28f30a7" />
+<img width="961" height="790" alt="スクリーンショット 2026-09-20 15 57 21" src="https://github.com/user-attachments/assets/8354574e-c3da-41ad-805b-a127a238a010" />
+<img width="958" height="788" alt="スクリーンショット 2026-09-20 16 01 37" src="https://github.com/user-attachments/assets/c9cb8a91-51ba-435a-80d8-f6c90e09e7c9" />
+<img width="960" height="790" alt="スクリーンショット 2026-09-20 16 02 05" src="https://github.com/user-attachments/assets/20e6808a-31bf-4113-9c31-b86230e16b34" />
 
 これは、ZeroOS（開発中のOSプロジェクト）が目指す操作感を体験できる**プレビュー版デモ**です。
 
